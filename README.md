@@ -84,6 +84,6 @@ How can customer shopping data be used to identify trends, improve customer enga
 Rajesh Kumar 
 ---
 
-⭐ Acknowledgement
-
+⭐ Acknowlepurposes
 This project is inspired by a real-world data analyst workflow and adapted for learning purposes.
+This project is inspired by a data analytics tutorial and recreated with my own implementation.
